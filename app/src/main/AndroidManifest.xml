@@ -3,7 +3,8 @@
     package="com.angcyo.flavordemo">
 
     <application>
-        <activity android:name=".MainActivity2" android:theme="@style/AppTheme.NoActionBar"/>
-
+        <activity
+            android:name=".MainActivity2"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 </manifest>

@@ -11,7 +11,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
-import com.angcyo.flavordemo.*;
+import com.angcyo.flavordemo.R;
 import com.util.Common;
 
 public class FlavorActivity extends AppCompatActivity {
